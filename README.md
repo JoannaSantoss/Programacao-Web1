@@ -10,7 +10,7 @@ A hands-on study repository created to practice core **CSS layout & positioning*
 
 ## About This Study Repository
 
-This repository serves as a personal learning lab and technical notebook for building foundational web development and version control habits[cite: 10, 11, 17]. Rather than a finished production product, each file and reference document focuses on isolating specific concepts, testing behavior in the browser or terminal, and documenting team collaboration steps[cite: 10, 11, 17].
+This repository serves as a personal learning lab and technical notebook for building foundational web development and version control habits. Rather than a finished production product, each file and reference document focuses on isolating specific concepts, testing behavior in the browser or terminal, and documenting team collaboration steps.
 
 ### What Is Being Studied Here
 
@@ -20,10 +20,3 @@ This repository serves as a personal learning lab and technical notebook for bui
 
 ---
 
-## Repository Contents
-
-```text
-.
-├── style_2.css                                       # CSS positioning, flex nav, and fixed/sticky layout studies
-├── app.js                                            # JavaScript logical operators and conditional examples
-└── Git e GitHub - Trabalho em Equipe com Branches.pdf  # Study guide on branches, PRs, merges, and conflict resolution[cite: 11]
